@@ -1,0 +1,12 @@
+.nav-item.active{
+    text-decoration: underline;
+}
+
+.bg-color{
+    background-color: #e2ddd0;
+}
+
+.nav-item{
+    font-size: 20px;
+    font-weight: 600;
+}

@@ -1,0 +1,30 @@
+h1, h2, h3{
+    overflow: hidden;
+}
+
+page{
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.phoneIcon{
+    background-color: black;
+    font-size: 30px;
+    padding: 10px;
+    border-radius: 50%;
+    color:white;
+}
+
+.locationIcon{
+    font-size: 40px;
+    color:green;
+}
+
+.pharContentStatus{
+    border: 3px dashed purple;
+   padding: 20px;
+    
+}

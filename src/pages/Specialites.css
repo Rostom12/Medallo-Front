@@ -1,0 +1,23 @@
+.searchBar{
+    margin: 50px 200px;
+    min-width: 200px;
+}
+
+h5{
+    overflow: hidden !important;
+    margin-top: 5px;
+}
+
+.searchInput{
+    min-width: 200px;
+}
+
+.searchBtn{
+    min-width: 50px;
+}
+
+.access-btn{
+    min-width: 90px;
+    justify-content: center;
+}
+

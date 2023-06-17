@@ -1,0 +1,43 @@
+.pharTitle{
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.pharItem{
+    border-bottom: 3px solid grey;
+    padding-bottom: 15px;
+    margin: 0 80px 30px 80px;
+}
+
+.pharStatus{
+    text-align: center;
+    margin-top: 15px;
+}
+
+.form-check-input:checked {
+    background-color: green !important;
+    border-color: green !important;
+}
+.form-check-input:focus {
+    border-color: green; 
+    outline: 0;
+    box-shadow: 0 0 0 0.25rem green;
+}
+
+.displayMode{
+    display: none !important;
+}
+
+.locationIcon{
+    font-size: 30px;
+    color:green;
+}
+
+.statusGreen{
+    color: green;
+}
+
+.statusRed{
+    color: red;
+}

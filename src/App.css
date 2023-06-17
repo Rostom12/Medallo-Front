@@ -1,0 +1,13 @@
+*{
+  overflow-x: hidden;
+  box-sizing: border-box;
+  margin:0;
+  padding: 0;
+
+}
+
+.App-header{
+  position: relative;
+  min-height: 91.5vh;
+
+}

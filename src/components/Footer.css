@@ -1,0 +1,25 @@
+.footerBox{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    color: black;
+    padding-top: 20px;
+    background-color: #e2ddd0;
+    position: realtive;
+    bottom: 0px;
+    width: 100%;
+    height: 5rem;            /* Footer height */
+    font-size: 20px;
+    font-weight: 400;
+    text-decoration: underline;
+}
+
+@media only screen and (max-width: 1000px) {
+    .footerBox{
+        height: 12rem; 
+        flex-direction: column;
+        align-items: center;
+        text-decoration: none;
+    }
+    
+}
